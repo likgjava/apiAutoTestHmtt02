@@ -1,0 +1,12 @@
+{
+  "test_mp_login": {
+    "mobile": "13911111111",
+    "code": "123456"
+  },
+  "test_mp_publish_article": {
+    "title": "test116",
+    "content": "今天天气不错，心情很美丽！！！",
+    "channel_id": 1,
+    "cover_type": 0
+  }
+}
