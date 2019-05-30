@@ -44,6 +44,7 @@ class TestPublishProcess:
 
     # 自媒体-发布文章
     def test_mp_publish_article(self):
+        logging.info("test_mp_publish_article start.....")
         # 测试数据
         content = "今天天气不错，心情很美丽！！！"
         channel_id = TestPublishProcess.channel_id
